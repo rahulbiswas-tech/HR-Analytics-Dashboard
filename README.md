@@ -1,6 +1,8 @@
 # HR-Analytics-Dashboard[intrective dashboard using Power BI]
 
-Objectives
+OVJECTIVE:-
+
+
 Analyze employee attrition patterns.
 Identify factors affecting employee retention.
 Monitor workforce demographics and diversity.
