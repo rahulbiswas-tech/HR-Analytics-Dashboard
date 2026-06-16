@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard[intrective dashboard using Power BI]
+# HR-Analytics-Dashboard[An Intrective dashboard creation using Power BI]
 
  PROJECT OVJECTIVE:-
 
@@ -11,5 +11,7 @@ Support data-driven HR decision-making.
 
 DATASET LINK WITH BACKGROUND IMAGE:-
 https://drive.google.com/drive/folders/18mQalCEyZypeV8TJeP3SME_R6qsCS2Og
+
+
 
 
