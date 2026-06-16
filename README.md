@@ -1,2 +1,9 @@
-# HR-Analytics-Dashboard
-This HR Analytics Dashboard is an interactive data visualization project designed to analyze employee data and provide actionable insights for HR decision-making. The dashboard helps organizations monitor workforce trends, employee attrition, job satisfaction, performance metrics, and demographic distributions through intuitive visualizations.
+# HR-Analytics-Dashboard[intrective dashboard using Power BI]
+
+Objectives
+Analyze employee attrition patterns.
+Identify factors affecting employee retention.
+Monitor workforce demographics and diversity.
+Track employee performance and satisfaction metrics.
+Support data-driven HR decision-making.
+
